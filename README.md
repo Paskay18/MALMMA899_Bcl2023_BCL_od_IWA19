@@ -8,10 +8,10 @@ As part of my final capstone project I was tasked with fixing the code that was 
 
 ## Features 
 
-User friendly
--Allows user to search and preview different books
--Has filter search
--Has dark and light mode 
+- User friendly
+- Allows user to search and preview different books
+- Has filter search
+- Has dark and light mode 
 
 
 ## Getting started
@@ -19,8 +19,8 @@ User friendly
 ### The following is required:
 
 - Visual Studio code or any other IDE
-- Basic Html,CSS and Javascript skills (https://developer.mozilla.org/en-US/docs/Learn)
-- Browser (https://www.google.com/chrome)
+- [Basic Html,CSS and Javascript skills](https://developer.mozilla.org/en-US/docs/Learn)
+- [Browser](https://www.google.com/chrome)
 
 
 ### User stories
