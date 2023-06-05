@@ -94,6 +94,12 @@ const handleListClose = ()=> {
 
 //when the app is active
 
+/**
+ * 
+ * @param {*} event 
+ * @returns 
+ */
+
 const  handleListClick = (event)=> {
     const pathArray = Array.from(event.path || event.composedPath());
     let active;
