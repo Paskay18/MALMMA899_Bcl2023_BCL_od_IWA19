@@ -28,7 +28,7 @@ const html = {
         
 },
 
-  search: {
+   search: {
     overlay: document.querySelector('[data-search-overlay]'),
     form: document.querySelector('[data-search-form]'),
     title: document.querySelector('[data-search-title]'),
@@ -109,6 +109,7 @@ const  handleListClick = (event)=> {
       const previewId = node?.dataset?.preview;
   
       for (const singleBook of books) {
+
         if (singleBook.id === previewId) {
           active = singleBook;
           break;
